@@ -90,3 +90,8 @@ Matplotlib (optional for visualization)
 sentiment.ipynb: The main Jupyter notebook containing preprocessing, model implementation, and evaluation.
 
 OUTPUT2.jpg,OUTPUT-2.jpg: A screenshot showing the evaluation metrics output.
+
+
+**OUTPUT**
+![Image](https://github.com/user-attachments/assets/98016c88-abad-4067-8b1c-2cb99f026dee)
+
